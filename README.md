@@ -1,0 +1,2 @@
+# Skill-Swap-python-project
+SkillSwap – Student Skill Exchange Network is a full-stack web application that enables students to exchange skills instead of money. Users can offer skills they know, request skills they want to learn, and get matched with other students based on mutual learning interests using a simple skill-matching algorithm. 
